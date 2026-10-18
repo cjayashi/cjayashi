@@ -57,20 +57,20 @@ Client names, source code, and operational data stay private.
 
 ### Platforms & tools
 
-These are platforms I've used across development, automation, and day-to-day project work.
+Platforms I use across development, automation, and project work.
 
 | Area | Platforms and tools |
 | :--- | :--- |
-| **Workflow automation** | n8n, Zapier |
-| **Project management** | Asana, Notion |
-| **AI integrations and agents** | OpenAI, Claude, LangGraph |
-| **Backend and data** | Supabase, PostgreSQL |
-| **Voice and video** | ElevenLabs, Whisper, HeyGen, FFmpeg |
-| **Practice management** | Xero Practice Manager, Ignition, XBert |
-| **Files, email, and spreadsheets** | Google Drive, Gmail, Dropbox, Excel |
-| **Web publishing** | Framer |
-| **Search integrations** | Serper |
-| **Blockchain and content proofs** | Base |
+| **Workflow automation** | ![n8n](assets/badges/n8n.svg) ![Zapier](assets/badges/zapier.svg) |
+| **Project management** | ![Asana](assets/badges/asana.svg) ![Notion](assets/badges/notion.svg) |
+| **AI integrations and agents** | ![OpenAI](assets/badges/openai.svg) ![Claude](assets/badges/claude.svg) ![LangGraph](assets/badges/langgraph.svg) |
+| **Backend and data** | ![Supabase](assets/badges/supabase.svg) ![PostgreSQL](assets/badges/postgresql.svg) |
+| **Voice and video** | ![ElevenLabs](assets/badges/elevenlabs.svg) ![Whisper](assets/badges/whisper.svg) ![HeyGen](assets/badges/heygen.svg) ![FFmpeg](assets/badges/ffmpeg.svg) |
+| **Practice management** | ![Xero Practice Manager](assets/badges/xero-practice-manager.svg) ![Ignition](assets/badges/ignition.svg) ![XBert](assets/badges/xbert.svg) |
+| **Files, email, and spreadsheets** | ![Google Drive](assets/badges/google-drive.svg) ![Gmail](assets/badges/gmail.svg) ![Dropbox](assets/badges/dropbox.svg) ![Excel](assets/badges/excel.svg) |
+| **Web publishing** | ![Framer](assets/badges/framer.svg) |
+| **Search integrations** | ![Serper](assets/badges/serper.svg) |
+| **Blockchain and content proofs** | ![Base](assets/badges/base.svg) |
 
 ### Outside development
 
