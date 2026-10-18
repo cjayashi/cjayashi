@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="CJ - AI & Automation Developer. I build tools that save time." width="100%" />
+  <img src="assets/banner-simple.svg" alt="CJ - AI & Automation Developer. I build tools that save time." width="100%" />
 </p>
 
 <p align="center">
