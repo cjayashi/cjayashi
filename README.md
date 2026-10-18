@@ -55,6 +55,23 @@ Client names, source code, and operational data stay private.
 - **AI and media:** prompt engineering, structured outputs, agent workflows, TTS, transcription, and FFmpeg
 - **QA:** output validation, regression checks, run logs, retry handling, and verifying changes against live records
 
+### Platforms & tools
+
+These are platforms I've used across development, automation, and day-to-day project work.
+
+| Area | Platforms and tools |
+| :--- | :--- |
+| **Workflow automation** | n8n, Zapier |
+| **Project management** | Asana, Notion |
+| **AI integrations and agents** | OpenAI, Claude, LangGraph |
+| **Backend and data** | Supabase, PostgreSQL |
+| **Voice and video** | ElevenLabs, Whisper, HeyGen, FFmpeg |
+| **Practice management** | Xero Practice Manager, Ignition, XBert |
+| **Files, email, and spreadsheets** | Google Drive, Gmail, Dropbox, Excel |
+| **Web publishing** | Framer |
+| **Search integrations** | Serper |
+| **Blockchain and content proofs** | Base |
+
 ### Outside development
 
 I used to play games competitively. I still have the habit of reviewing what went wrong and working on it until I can do it consistently. Debugging feels pretty familiar in that sense.
