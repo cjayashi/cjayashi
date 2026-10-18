@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/banner-simple.svg" alt="CJ - AI & Automation Developer. I build tools that save time." width="100%" />
+  <img src="assets/banner-dev.svg" alt="CJ - AI & Automation Developer. Full-stack development, AI integrations, and workflow automation." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Websites, apps, and tools that save time.</strong><br />
-  I help people spend less time on repeated tasks by building software that does the work for them.
+  <strong>Full-stack development · AI integrations · Workflow automation</strong><br />
+  I build web apps, connect APIs, and automate the parts of a job that shouldn't need manual work.
 </p>
 
 <p align="center">
-  <a href="https://cjtelan.vercel.app/">See my work</a>
+  <a href="https://cjtelan.vercel.app/">Portfolio</a>
   &nbsp; · &nbsp;
   <a href="https://cjtelan.vercel.app/#contact">Get in touch</a>
 </p>
@@ -17,39 +17,52 @@
 
 ### Hey, I'm CJ
 
-I'm an AI & Automation Developer based in the Philippines. I build websites and apps, connect tools, and use AI to help with everyday work.
+I'm an AI & Automation Developer based in the Philippines. I've worked on SaaS products, web apps, AI features, and automation for day-to-day business operations.
 
-I like figuring out why something isn't working and finding a simpler way to do it. I test what I build and check the results before calling it done.
+My work covers front-end development, API integrations, databases, and QA. I also spend a lot of time debugging existing systems, tracing data issues, and checking what actually happened during a failed run.
 
-### What I do
+### What I work on
 
-- **Build websites and apps** - from the pages people use to the code and databases behind them.
-- **Automate repeated tasks** - move information between tools, schedule jobs, and cut down on manual work.
-- **Build AI tools** - help with calls, writing, and other tasks, with checks for mistakes.
-- **Work with audio and video** - add voiceovers, captions, and checks before a video is ready to share.
-- **Make sense of data** - compare records, find missing or incorrect information, and fix calculations.
+- **Full-stack development** - responsive interfaces, authentication, database queries, and backend functions. I've worked on products from the first build through deployment and production support.
+- **Workflow automation** - scheduled jobs, API integrations, webhooks, and multi-step workflows. I add validation, retry limits, and error handling so failures don't leave the whole process stuck.
+- **AI integrations** - structured outputs, prompt constraints, tool routing, and stateful agents. I use QA checks and human review where a bad output could cause problems.
+- **Voice and video pipelines** - TTS, transcription, captions, and programmatic rendering. This includes pronunciation checks and scoring generated audio before it moves to the next step.
+- **Data reconciliation** - comparing records across systems, finding the source of a mismatch, and fixing the data or formulas behind it.
 
-### Some things I've worked on
+### A few projects
 
-- A tool that turns a topic into a video, including the script, voiceover, and quality checks.
-- An AI receptionist that collects caller details and passes them to booking and customer records.
-- A workload planner that compares agreed work with estimated hours and shows where they don't match.
-- Learning activities that work on phones and can be edited in a browser.
-- A tool that records a file's digital fingerprint so someone can check which version it belongs to.
+**Automated content production**  
+Built a pipeline from topic intake to script generation, verification, TTS, transcription-based QA, and video rendering. Added capped retries and a review path for outputs that didn't pass QA.
 
-I keep client names, code, and business information private.
+**AI receptionist**  
+Worked on a SaaS MVP with a voice agent that collected caller details and passed them into scheduling and CRM workflows. Handled missing information, changed requests, and incomplete conversations. Set up QA checks before release.
 
-### Tools I use
+**Capacity planning and data audits**  
+Built a model that compared signed service agreements with job estimates. Traced discrepancies back to source records, audited recurring task templates, and fixed formulas that were leaving rows out of workload totals.
 
-Python, JavaScript, SQL, HTML, and CSS. I also use APIs, webhooks, and MCP to connect different tools.
+**Browser-based learning tools**  
+Built mobile-friendly interactive modules with an editing layer that let users update content directly in the browser.
 
-### A bit more about me
+**Content provenance**  
+Built file-hash records, transaction receipt verification, and tools for reviewing the evidence. Kept prepared records separate from confirmed transactions, with duplicate checks and spending limits.
 
-I used to play games competitively. Reviewing mistakes and practising until I got better became a habit. I bring that same patience to building and fixing software.
+Client names, source code, and operational data stay private.
+
+### Stack and tools
+
+- **Development:** Python, JavaScript, React, HTML, CSS, SQL, PostgreSQL
+- **Integrations:** REST APIs, webhooks, MCP, authentication, storage, and serverless functions
+- **AI and media:** prompt engineering, structured outputs, agent workflows, TTS, transcription, and FFmpeg
+- **QA:** output validation, regression checks, run logs, retry handling, and verifying changes against live records
+
+### Outside development
+
+I used to play games competitively. I still have the habit of reviewing what went wrong and working on it until I can do it consistently. Debugging feels pretty familiar in that sense.
 
 ---
 
 <p align="center">
-  <strong>Got a task you're tired of doing by hand?</strong><br />
-  <a href="https://cjtelan.vercel.app/#contact">Tell me about it.</a>
+  <a href="https://cjtelan.vercel.app/">More about my work</a>
+  &nbsp; · &nbsp;
+  <a href="https://cjtelan.vercel.app/#contact">Contact me</a>
 </p>
