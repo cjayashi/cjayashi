@@ -63,14 +63,14 @@ Platforms I use across development, automation, and project work.
 | :--- | :--- |
 | **Workflow automation** | ![n8n](assets/badges-logos/n8n.svg) ![Zapier](assets/badges-logos/zapier.svg) |
 | **Project management** | ![Asana](assets/badges-logos/asana.svg) ![Notion](assets/badges-logos/notion.svg) |
-| **AI integrations and agents** | ![OpenAI](assets/badges/openai.svg) ![Claude](assets/badges-logos/claude.svg) ![LangGraph](assets/badges-logos/langgraph.svg) |
+| **AI integrations and agents** | ![OpenAI](assets/badges-logos/openai.svg) ![Claude](assets/badges-logos/claude.svg) ![LangGraph](assets/badges-logos/langgraph.svg) |
 | **Backend and data** | ![Supabase](assets/badges-logos/supabase.svg) ![PostgreSQL](assets/badges-logos/postgresql.svg) |
-| **Voice and video** | ![ElevenLabs](assets/badges-logos/elevenlabs.svg) ![Whisper](assets/badges/whisper.svg) ![HeyGen](assets/badges/heygen.svg) ![FFmpeg](assets/badges-logos/ffmpeg.svg) |
-| **Practice management** | ![Xero Practice Manager](assets/badges-logos/xero-practice-manager.svg) ![Ignition](assets/badges/ignition.svg) ![XBert](assets/badges/xbert.svg) |
-| **Files, email, and spreadsheets** | ![Google Drive](assets/badges-logos/google-drive.svg) ![Gmail](assets/badges-logos/gmail.svg) ![Dropbox](assets/badges-logos/dropbox.svg) ![Excel](assets/badges/excel.svg) |
+| **Voice and video** | ![ElevenLabs](assets/badges-logos/elevenlabs.svg) ![Whisper](assets/badges-logos/whisper.svg) ![HeyGen](assets/badges-logos/heygen.svg) ![FFmpeg](assets/badges-logos/ffmpeg.svg) |
+| **Practice management** | ![Xero Practice Manager](assets/badges-logos/xero-practice-manager.svg) ![Ignition](assets/badges-logos/ignition.svg) ![XBert](assets/badges-logos/xbert.svg) |
+| **Files, email, and spreadsheets** | ![Google Drive](assets/badges-logos/google-drive.svg) ![Gmail](assets/badges-logos/gmail.svg) ![Dropbox](assets/badges-logos/dropbox.svg) ![Excel](assets/badges-logos/excel.svg) |
 | **Web publishing** | ![Framer](assets/badges-logos/framer.svg) |
-| **Search integrations** | ![Serper](assets/badges/serper.svg) |
-| **Blockchain and content proofs** | ![Base](assets/badges/base.svg) |
+| **Search integrations** | ![Serper](assets/badges-logos/serper.svg) |
+| **Blockchain and content proofs** | ![Base](assets/badges-logos/base.svg) |
 
 ### Outside development
 

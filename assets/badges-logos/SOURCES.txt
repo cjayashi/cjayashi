@@ -2,4 +2,14 @@ Brand logo paths: Simple Icons (CC0), https://github.com/simple-icons/simple-ico
 Source: develop/icons/<brand>.svg, retrieved 18 October 2026.
 Badge layout and colors: custom for this profile.
 Xero Practice Manager uses the Xero brand mark.
-Other badges keep text labels where a matching logo was not sourced.
+
+Additional assets, retrieved 18 October 2026:
+openai: https://raw.githubusercontent.com/simple-icons/simple-icons/13.21.0/icons/openai.svg
+whisper: https://raw.githubusercontent.com/simple-icons/simple-icons/13.21.0/icons/openai.svg
+excel: https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/microsoftexcel.svg
+base: https://raw.githubusercontent.com/base/brand-kit/main/logo/TheSquare/Digital/Base_square_blue.svg
+heygen: https://www.heygen.com/favicon.ico?favicon.2m321y0geyyfh.ico
+ignition: https://www.ignitionapp.com/favicon-96x96.png
+xbert: https://cdn.prod.website-files.com/62b40a7d7cff0405e25466cc/62c6d60c9ffc340fbec9d069_xbert-favicon-rev-large.png
+serper: https://serper.dev/favicon-32x32.png
+Whisper uses its developer OpenAI's brand mark; it is not presented as a separate Whisper logo.
