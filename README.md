@@ -61,14 +61,14 @@ Platforms I use across development, automation, and project work.
 
 | Area | Platforms and tools |
 | :--- | :--- |
-| **Workflow automation** | ![n8n](assets/badges/n8n.svg) ![Zapier](assets/badges/zapier.svg) |
-| **Project management** | ![Asana](assets/badges/asana.svg) ![Notion](assets/badges/notion.svg) |
-| **AI integrations and agents** | ![OpenAI](assets/badges/openai.svg) ![Claude](assets/badges/claude.svg) ![LangGraph](assets/badges/langgraph.svg) |
-| **Backend and data** | ![Supabase](assets/badges/supabase.svg) ![PostgreSQL](assets/badges/postgresql.svg) |
-| **Voice and video** | ![ElevenLabs](assets/badges/elevenlabs.svg) ![Whisper](assets/badges/whisper.svg) ![HeyGen](assets/badges/heygen.svg) ![FFmpeg](assets/badges/ffmpeg.svg) |
-| **Practice management** | ![Xero Practice Manager](assets/badges/xero-practice-manager.svg) ![Ignition](assets/badges/ignition.svg) ![XBert](assets/badges/xbert.svg) |
-| **Files, email, and spreadsheets** | ![Google Drive](assets/badges/google-drive.svg) ![Gmail](assets/badges/gmail.svg) ![Dropbox](assets/badges/dropbox.svg) ![Excel](assets/badges/excel.svg) |
-| **Web publishing** | ![Framer](assets/badges/framer.svg) |
+| **Workflow automation** | ![n8n](assets/badges-logos/n8n.svg) ![Zapier](assets/badges-logos/zapier.svg) |
+| **Project management** | ![Asana](assets/badges-logos/asana.svg) ![Notion](assets/badges-logos/notion.svg) |
+| **AI integrations and agents** | ![OpenAI](assets/badges/openai.svg) ![Claude](assets/badges-logos/claude.svg) ![LangGraph](assets/badges-logos/langgraph.svg) |
+| **Backend and data** | ![Supabase](assets/badges-logos/supabase.svg) ![PostgreSQL](assets/badges-logos/postgresql.svg) |
+| **Voice and video** | ![ElevenLabs](assets/badges-logos/elevenlabs.svg) ![Whisper](assets/badges/whisper.svg) ![HeyGen](assets/badges/heygen.svg) ![FFmpeg](assets/badges-logos/ffmpeg.svg) |
+| **Practice management** | ![Xero Practice Manager](assets/badges-logos/xero-practice-manager.svg) ![Ignition](assets/badges/ignition.svg) ![XBert](assets/badges/xbert.svg) |
+| **Files, email, and spreadsheets** | ![Google Drive](assets/badges-logos/google-drive.svg) ![Gmail](assets/badges-logos/gmail.svg) ![Dropbox](assets/badges-logos/dropbox.svg) ![Excel](assets/badges/excel.svg) |
+| **Web publishing** | ![Framer](assets/badges-logos/framer.svg) |
 | **Search integrations** | ![Serper](assets/badges/serper.svg) |
 | **Blockchain and content proofs** | ![Base](assets/badges/base.svg) |
 

@@ -1,0 +1,5 @@
+Brand logo paths: Simple Icons (CC0), https://github.com/simple-icons/simple-icons
+Source: develop/icons/<brand>.svg, retrieved 18 October 2026.
+Badge layout and colors: custom for this profile.
+Xero Practice Manager uses the Xero brand mark.
+Other badges keep text labels where a matching logo was not sourced.
