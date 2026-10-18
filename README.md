@@ -1,61 +1,55 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="CJ — AI & Automation Developer. Build with purpose. Verify every step." width="100%" />
+  <img src="assets/banner.svg" alt="CJ - AI & Automation Developer. I build tools that save time." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Full-stack applications · Practical AI · Reliable automation</strong><br />
-  I connect tools, automate repetitive work, and build software that makes everyday operations easier.
+  <strong>Websites, apps, and tools that save time.</strong><br />
+  I help people spend less time on repeated tasks by building software that does the work for them.
 </p>
 
 <p align="center">
-  <a href="https://cjtelan.vercel.app/">Explore my portfolio ↗</a>
+  <a href="https://cjtelan.vercel.app/">See my work</a>
   &nbsp; · &nbsp;
-  <a href="https://cjtelan.vercel.app/#contact">Let’s build something ↗</a>
+  <a href="https://cjtelan.vercel.app/#contact">Get in touch</a>
 </p>
 
 ---
 
-### A little about me
+### Hey, I'm CJ
 
-Hey, I’m **CJ**, an AI & Automation Developer based in the Philippines. My work spans full-stack products, AI integrations, and the operational details that keep a system useful after the demo.
+I'm an AI & Automation Developer based in the Philippines. I build websites and apps, connect tools, and use AI to help with everyday work.
 
-I care about clear scope, readable logs, sensible retry limits, and checking that the result actually matches the request.
+I like figuring out why something isn't working and finding a simpler way to do it. I test what I build and check the results before calling it done.
 
-### What I build
+### What I do
 
-| Focus | What that looks like |
-| :--- | :--- |
-| **AI & workflow automation** | Multi-step workflows, structured model outputs, validation gates, capped retries, and human review. |
-| **Full-stack products** | Responsive interfaces, authentication, databases, APIs, and SaaS products from concept to release. |
-| **Voice & video systems** | Speech generation, transcription-based quality checks, captions, programmatic rendering, and delivery. |
-| **Data & operations** | Reconciliation across systems, capacity models, data-quality audits, and verified updates. |
-| **Connected tools** | API and MCP integrations, webhooks, scheduling, CRM hand-offs, and internal tools. |
+- **Build websites and apps** - from the pages people use to the code and databases behind them.
+- **Automate repeated tasks** - move information between tools, schedule jobs, and cut down on manual work.
+- **Build AI tools** - help with calls, writing, and other tasks, with checks for mistakes.
+- **Work with audio and video** - add voiceovers, captions, and checks before a video is ready to share.
+- **Make sense of data** - compare records, find missing or incorrect information, and fix calculations.
 
-### Selected work, without the client details
+### Some things I've worked on
 
-- **Content production pipelines** — connected topic intake, script generation, verification, voice, quality checks, and rendering into a reviewable workflow.
-- **An AI receptionist** — built call handling that collects information and hands conversations into scheduling and CRM workflows, including incomplete or changing requests.
-- **Operations reconciliation** — compared service agreements with work estimates, traced discrepancies to their source, and repaired capacity calculations.
-- **Interactive browser tools** — built mobile-friendly learning modules with an in-browser editing layer.
-- **Content evidence tooling** — recorded file fingerprints, verified transaction receipts, and distinguished prepared evidence from confirmed records.
+- A tool that turns a topic into a video, including the script, voiceover, and quality checks.
+- An AI receptionist that collects caller details and passes them to booking and customer records.
+- A workload planner that compares agreed work with estimated hours and shows where they don't match.
+- Learning activities that work on phones and can be edited in a browser.
+- A tool that records a file's digital fingerprint so someone can check which version it belongs to.
 
-Project descriptions are intentionally anonymous. Client source code and operational data stay private.
+I keep client names, code, and business information private.
 
-### My toolkit
+### Tools I use
 
-**Code** &nbsp; Python · JavaScript · SQL · HTML · CSS  
-**Systems** &nbsp; APIs · Webhooks · MCP · Workflow orchestration · Agent state & tool routing  
-**Quality** &nbsp; Output validation · Data reconciliation · Logging · Retry limits · Human review
+Python, JavaScript, SQL, HTML, and CSS. I also use APIs, webhooks, and MCP to connect different tools.
 
-### How I work
+### A bit more about me
 
-**Understand the problem → Build the smallest useful system → Test the failure paths → Verify the result**
-
-Before software, I played competitively. I kept the habit of reviewing my own mistakes, practising the weak points, and valuing consistency over a highlight reel.
+I used to play games competitively. Reviewing mistakes and practising until I got better became a habit. I bring that same patience to building and fixing software.
 
 ---
 
 <p align="center">
-  <strong>Have something repetitive, disconnected, or fragile?</strong><br />
-  <a href="https://cjtelan.vercel.app/#contact">Tell me what currently happens by hand.</a>
+  <strong>Got a task you're tired of doing by hand?</strong><br />
+  <a href="https://cjtelan.vercel.app/#contact">Tell me about it.</a>
 </p>
